@@ -1,4 +1,4 @@
-# Student_grade_tracker
+# Student_grade_tracker@CodeAlpha
 Step 1: Understanding the Project Structure
 The project consists of three main classes:
 1.	Student Class: Represents individual student data
